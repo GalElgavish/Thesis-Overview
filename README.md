@@ -1,4 +1,3 @@
-# Thesis Overview
 # General
 This thesis work is on the analysis and forecasting of hierarchical time-series.
 
