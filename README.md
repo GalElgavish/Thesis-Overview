@@ -3,7 +3,7 @@ This thesis work is on the analysis and forecasting of hierarchical time-series.
 
 # Thesis Paper
 - Research Proposal [pdf](https://github.com/GalElgavish/Thesis/blob/main/Thesis%20Paper/Research_Proposal.pdf) [overleaf](https://www.overleaf.com/project/61376d6d4ae494107b936201)
-- Thesis Paper (in progress)
+- Thesis Paper (in progress) [overleaf(https://www.overleaf.com/project/61376d6d4ae494107b936201)
 
 # Datasets
 ## From Research Papers
