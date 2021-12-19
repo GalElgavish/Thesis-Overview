@@ -62,6 +62,7 @@ A video from International Institute of Forecasters conference: 'Ten years of fo
 - Probabilistic Models of Cognition [link](http://probmods.org/)
 
 # Conferences and Journals
+- CSCML (Ben Gurion) [link](https://www.cscml.org/about)
 - Association for Uncertainty in Artificial Intelligence [link](https://auai.org/)
 - International Institute of Forecasters [link](https://forecasters.org/)
 - International Conference on Time Series and Forecasting [link](https://itise.ugr.es/)
